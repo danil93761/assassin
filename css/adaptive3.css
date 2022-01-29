@@ -1,0 +1,30 @@
+@media screen and (max-width: 992px){
+    .nav-link{
+        font-size: 17px;
+        margin-left: 50px;
+    }
+    .audio-item{
+        font-size: 20px;
+    }
+}
+@media screen and (max-width: 768px){
+    .nav-link{
+        font-size: 12px;
+        margin-left: 25px;
+        
+    }
+}
+@media screen and (max-width: 576px){
+    .nav-link{
+        font-size: 9px;
+        margin: 1px;
+        margin-left: 15px;
+    }
+    .audio-item{
+         font-size: 10px;
+    }
+    .music{
+        width: 50px;
+        height: 150px;
+    }
+}
